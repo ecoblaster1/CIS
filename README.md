@@ -13,3 +13,6 @@ This program allows for opening and editing .txt documents.
 
 #TeamAtlas
 This program takes data from League of Legends API and parses the data into a format that is relevant to the user.  
+
+#TicTacToe
+Allows you to play tic tac toe in the console.
