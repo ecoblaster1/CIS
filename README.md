@@ -12,4 +12,4 @@ This program checks to see if the password provided by the user matches the para
 This program allows for opening and editing .txt documents.
 
 #TeamAtlas
-This program takes data from League of Legends and parses the data into a format that is readable by the user using an api. 
+This program takes data from League of Legends API and parses the data into a format that is relevant to the user.  
