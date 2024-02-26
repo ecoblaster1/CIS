@@ -1,18 +1,33 @@
-# Projects
-#Area Detection
-This project checks to see if the coordinates provided by the user exist within an area created by the program. If the user is found within the area it responds with "BRAINZZZ", emulating being surrounded by zombies.
+ # Project Portfolio
 
-#Circles
-This program calculates the area and circumference when the user provides the radius.
+This repository contains a collection of projects that I have completed during my time as a student. These projects demonstrate my proficiency in various programming concepts and my ability to apply these concepts to real-world applications.
 
-#Password Validator
-This program checks to see if the password provided by the user matches the parameters.
+## Projects
 
-#Text Editor
-This program allows for opening and editing .txt documents.
+### Area Detection
 
-#TeamAtlas
-This program takes data from League of Legends API and parses the data into a format that is relevant to the user.  
+This program checks to see if the coordinates provided by the user exist within a predefined area. If the user is found within the area, it responds with "BRAINZZZ", emulating being surrounded by zombies. This project demonstrates my understanding of conditional statements and user input.
 
-#TicTacToe
-Allows you to play tic tac toe in the console by repeatedly checking win conditions and alternating between player turns and recording valid returns.
+### Circles
+
+This program calculates the area and circumference when the user provides the radius. This project demonstrates my understanding of mathematical formulas and user input.
+
+### Password Validator
+
+This program checks to see if the password provided by the user matches the parameters. This project demonstrates my understanding of regular expressions and conditional statements.
+
+### Text Editor
+
+This program allows for opening and editing .txt documents. This project demonstrates my understanding of file input/output and string manipulation.
+
+### TicTacToe
+
+This program allows you to play tic tac toe in the console by repeatedly checking win conditions and alternating between player turns and recording valid returns. This project demonstrates my understanding of game development, conditional statements, and user input.
+
+### Snake
+
+This is an adaptation of the classic snake game playable through the terminal. This project demonstrates my understanding of game development, user input, and data structures.
+
+### LeagueOfLegendStatTracker
+
+This project allowed me to check the stats of my team through the League of Legends API and organize the findings in a readable way. This project demonstrates my ability to work with APIs, parse JSON data, and manipulate data structures.
